@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sou um aspirante a Desenvolver FullStack Jr e Estudante de Sistemas de Informação na UNIFESSPA.
+Sou um Desenvolvedor FullStack Jr e Estudante de Sistemas de Informação na UNIFESSPA.
 
 ### Minhas skills são: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
 
