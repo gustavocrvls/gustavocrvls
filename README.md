@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-| ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavocrvls&show_icons=true)
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavocrvls&show_icons=true)
 
 ### - Languages and Tools...
 
