@@ -38,8 +38,6 @@ Sou um Desenvolvedor FullStack Jr 👨‍💻️ e Estudante de Sistemas de Info
   <img src="https://github-readme-stats.vercel.app/api?username=gustavocrvls&show_icons=true" />
 </p>
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavocrvls&show_icons=true)
-
 ### Onde me encontrar:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-carvalho-silva-989a2a174/)](https://www.linkedin.com/in/gustavo-carvalho-silva-989a2a174/)
