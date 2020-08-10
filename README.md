@@ -1,4 +1,4 @@
-## Oi, eu sou o Gustavo!
+## Oi, eu sou o Gustavo! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /> -->
 
@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sou um Desenvolvedor FullStack Jr e Estudante de Sistemas de Informação na UNIFESSPA.
+Sou um Desenvolvedor FullStack Jr 👨‍💻️ e Estudante de Sistemas de Informação na UNIFESSPA 🤓️.
 
-### Minhas skills são: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
+### Minhas skills:
 
-<p>
+<p align='center'>
   <img height="40" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img height="40" alt="NodeJS" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img height="40" alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -34,7 +34,9 @@ Sou um Desenvolvedor FullStack Jr e Estudante de Sistemas de Informação na UNI
   <img height="40" alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavocrvls&show_icons=true" />
+</p>
 
 ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavocrvls&show_icons=true)
 
@@ -42,3 +44,5 @@ Sou um Desenvolvedor FullStack Jr e Estudante de Sistemas de Informação na UNI
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-carvalho-silva-989a2a174/)](https://www.linkedin.com/in/gustavo-carvalho-silva-989a2a174/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavocrvl42@gmail.com)](mailto:gustavocrvl42@gmail.com)
+
+#### Isso é tudo por enquanto 😆️, obrigado pela visita!
