@@ -41,7 +41,7 @@ Sou um Desenvolvedor FullStack Jr 👨‍💻️ e Estudante de Sistemas de Info
 ### Onde me encontrar:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavocrvl42@gmail.com)](mailto:gustavocrvl42@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-carvalho-silva-989a2a174/)](https://www.linkedin.com/in/gustavo-carvalho-silva-989a2a174/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavocrvls/)](https://www.linkedin.com/in/gustavocrvls/)
 [![Code Wars Badge](https://img.shields.io/badge/-CodeWars-bb432c?style=flat-square&logo=CodeWars&logoColor=white&link=https://www.codewars.com/users/carvalho42)](https://www.codewars.com/users/carvalho42)
 [![Website Badge](https://img.shields.io/badge/-Website-000?style=flat-square&logo=google-chrome&logoColor=white&link=https://gustavocrvls.github.io)](https://gustavocrvls.github.io)
 
