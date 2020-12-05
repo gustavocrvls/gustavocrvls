@@ -21,18 +21,20 @@ Sou um Desenvolvedor FullStack Jr 👨‍💻️ e Estudante de Sistemas de Info
 
 ### Minhas skills:
 
-<p align='center'>
-  <img height="40" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img height="40" alt="NodeJS" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  <img height="40" alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  <img height="40" alt="Vue" title="Vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-  
-  <img height="40" alt="HTML" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img height="40" alt="CSS" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img height="40" alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-  <img height="40" alt="Git" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-  <img height="40" alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</p>
+#### O que sei:
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+[![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![NodeJS Badge](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/)](https://nodejs.org/)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black&link=https://reactjs.org/)](https://reactjs.org/)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
+
+#### O que estou aprendendo:
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+
+#### O que quero aprender:
+[![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white&link=https://nodejs.org/)](https://vuejs.org/)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavocrvls&show_icons=true" />
@@ -42,7 +44,6 @@ Sou um Desenvolvedor FullStack Jr 👨‍💻️ e Estudante de Sistemas de Info
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavocrvl42@gmail.com)](mailto:gustavocrvl42@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavocrvls/)](https://www.linkedin.com/in/gustavocrvls/)
-[![Code Wars Badge](https://img.shields.io/badge/-CodeWars-bb432c?style=for-the-badge&logo=CodeWars&logoColor=white&link=https://www.codewars.com/users/carvalho42)](https://www.codewars.com/users/carvalho42)
 [![Website Badge](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://gustavocrvls.github.io)](https://gustavocrvls.github.io)
 
 #### Isso é tudo por enquanto 😆️, obrigado pela visita!
