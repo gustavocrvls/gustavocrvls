@@ -37,7 +37,7 @@ Sou um Desenvolvedor FullStack Jr 👨‍💻️ e Estudante de Sistemas de Info
 [![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white&link=https://nodejs.org/)](https://vuejs.org/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavocrvls&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavocrvls&show_icons=true&theme=radical" />
 </p>
 
 ### Onde me encontrar:
