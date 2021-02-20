@@ -39,10 +39,6 @@ Sou um Desenvolvedor FullStack Jr 👨‍💻️ e Estudante de Sistemas de Info
 [![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white&link=https://nodejs.org/)](https://vuejs.org/)
 [![Next JS Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&link=https://nextjs.org/)](hhttps://nextjs.org/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavocrvls&show_icons=true&theme=radical" />
-</p>
-
 ### Onde me encontrar:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavocrvl42@gmail.com)](mailto:gustavocrvl42@gmail.com)
