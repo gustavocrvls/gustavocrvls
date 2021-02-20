@@ -1,4 +1,4 @@
-## Oi, eu sou o Gustavo! <img src="https://66.media.tumblr.com/4f6e8d2395f3b913a67613ba6101d568/tumblr_mpvv1jre3q1rfjowdo1_500.gif" width="40"/>
+## Oi, eu sou o Gustavo! <!-- <img src="https://66.media.tumblr.com/4f6e8d2395f3b913a67613ba6101d568/tumblr_mpvv1jre3q1rfjowdo1_500.gif" width="40"/> -->
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /> -->
 
