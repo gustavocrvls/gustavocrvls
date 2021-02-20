@@ -37,6 +37,7 @@ Sou um Desenvolvedor FullStack Jr 👨‍💻️ e Estudante de Sistemas de Info
 
 #### O que quero aprender:
 [![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white&link=https://nodejs.org/)](https://vuejs.org/)
+[![Next JS Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&link=https://nextjs.org/)](hhttps://nextjs.org/)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavocrvls&show_icons=true&theme=radical" />
