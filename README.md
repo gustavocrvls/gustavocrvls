@@ -46,3 +46,5 @@ Sou um Desenvolvedor FullStack Jr 👨‍💻️ e Estudante de Sistemas de Info
 [![Website Badge](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://gustavocrvls.github.io)](https://gustavocrvls.github.io)
 
 #### Isso é tudo por enquanto 😆️, obrigado pela visita!
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgustavocrvls&count_bg=%236F3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
