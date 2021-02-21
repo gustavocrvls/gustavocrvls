@@ -32,8 +32,8 @@ Sou um Desenvolvedor FullStack Jr 👨‍💻️ e Estudante de Sistemas de Info
 
 #### O que estou aprendendo:
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
-[![Styled Components Badge](https://img.shields.io/badge/-Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&link=https://https://www.styled-components.com/)](https://https://www.styled-components.com/)
-[![Chakra UI Badge](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white&link=https://https://www.styled-components.com/)](https://https://www.styled-components.com/)
+[![Styled Components Badge](https://img.shields.io/badge/-Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&link=https://www.styled-components.com/)](https://www.styled-components.com/)
+[![Chakra UI Badge](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white&link=https://chakra-ui.com/)](https://chakra-ui.com/)
 
 #### O que quero aprender:
 [![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white&link=https://nodejs.org/)](https://vuejs.org/)
