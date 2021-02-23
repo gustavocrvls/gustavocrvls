@@ -29,6 +29,7 @@ Sou um Desenvolvedor FullStack Jr 👨‍💻️ e Estudante de Sistemas de Info
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/)](https://nodejs.org/)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black&link=https://reactjs.org/)](https://reactjs.org/)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 
 #### O que estou aprendendo:
