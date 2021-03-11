@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sou estudante de Sistemas de Informação na <a href="https://www.unifesspa.edu.br/">UNIFESSPA</a>, Desenvolvedor Fullstack e Aspirante a Webdesinger. Sou péssimo em jogos 👾, viciado em música 🎶, e amo livros de fantasia 🧙‍♂️. Nas horas vagas eu vejo memes de gato, toco violão e desenho.
+Sou estudante de Sistemas de Informação na <a href="https://www.unifesspa.edu.br/">UNIFESSPA</a>, Desenvolvedor Fullstack e Aspirante a Webdesinger. Sou péssimo em jogos 👾, viciado em música 🎶, e amo livros de fantasia 🧙‍♂️. Nas horas vagas eu vejo memes de gatos, toco violão e desenho.
 
 ### Minhas skills:
 
