@@ -31,7 +31,7 @@ E quero aprender o quanto antes sobre Next.js e React Native.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavocrvls/)](https://www.linkedin.com/in/gustavocrvls/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavocrvls/)](https://www.instagram.com/gustavocrvls/)
 
-# [![Website Badge](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://gustavocrvls.github.io)](https://gustavocrvls.github.io)
+<!-- [![Website Badge](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://gustavocrvls.github.io)](https://gustavocrvls.github.io) -->
 
 Isso é tudo por enquanto 😆️, obrigado pela visita!
 
