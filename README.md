@@ -23,13 +23,15 @@ Hoje eu sei bastante sobre HTML5, CSS3, Javascript, Node.js, React e Git.
 
 Também estou aprendendo Typescript, Styled Components e ChakraUI.
 
-E quero aprender o quanto antes sobre Next.js
+E quero aprender o quanto antes sobre Next.js e React Native.
 
 ### Onde você pode me encontrar:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavocrvl42@gmail.com)](mailto:gustavocrvl42@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavocrvls/)](https://www.linkedin.com/in/gustavocrvls/)
-[![Website Badge](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://gustavocrvls.github.io)](https://gustavocrvls.github.io)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavocrvls/)](https://www.instagram.com/gustavocrvls/)
+
+# [![Website Badge](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://gustavocrvls.github.io)](https://gustavocrvls.github.io)
 
 Isso é tudo por enquanto 😆️, obrigado pela visita!
 
