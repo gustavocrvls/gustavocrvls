@@ -34,5 +34,3 @@ E quero aprender o quanto antes sobre Next.js e React Native.
 <!-- [![Website Badge](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://gustavocrvls.github.io)](https://gustavocrvls.github.io) -->
 
 Isso é tudo por enquanto 😆️, obrigado pela visita!
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgustavocrvls%2Fhit-counter&count_bg=%23365E62&title_bg=%23232323&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=true)](https://hits.seeyoufarm.com)
