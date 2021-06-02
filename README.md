@@ -1,36 +1,33 @@
 # Oi, eu sou o Gustavo!
 
-<!--
-**gustavocrvls/gustavocrvls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Sou estudante de Sistemas de Informação na <a href="https://www.unifesspa.edu.br/">UNIFESSPA</a>, Desenvolvedor Fullstack Jr e aspirante a Webdesinger. Sou péssimo em jogos 👾, viciado em música 🎶, e amo livros de fantasia 🧙‍♂️. Nas horas vagas eu vejo memes de gatos, toco violão e desenho.
+Estou cursando o último semestre de Sistemas de Informação na <a href="https://www.unifesspa.edu.br/">UNIFESSPA</a>, além disso sou Desenvolvedor Front-end Jr e aspirante a UI/UX Designer. Gosto de jogar, apesar de ser péssimo (haha), tocar violão nas horas vagas e ouvir bastante música :)
 
 ### Minhas skills:
 
-Hoje eu sei bastante sobre HTML5, CSS3, Javascript, Node.js, React e Git. 
+#### O que eu sei:
 
-Também estou aprendendo Typescript, Styled Components e ChakraUI.
+- HMTL5
+- CSS3
+- Javascript
+- Typescript
+- React
+- Git
+- ChakraUI
+- Styled-Components
 
-E quero aprender o quanto antes sobre Next.js e React Native.
+#### O que estou estudando:
+
+- Next.js
+
+#### O que quero aprender: 
+
+- React Native
+- Flutter
 
 ### Onde você pode me encontrar:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavocrvl42@gmail.com)](mailto:gustavocrvl42@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavocrvls/)](https://www.linkedin.com/in/gustavocrvls/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavocrvls/)](https://www.instagram.com/gustavocrvls/)
-
-<!-- [![Website Badge](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://gustavocrvls.github.io)](https://gustavocrvls.github.io) -->
 
 Isso é tudo por enquanto 😆️, obrigado pela visita!
