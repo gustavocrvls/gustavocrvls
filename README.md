@@ -1,8 +1,10 @@
-# Oi, eu sou o Gustavo!
+<h2><samp>Oi, eu sou o Gustavo!</samp></h2>
 
-Estou cursando o último semestre de Sistemas de Informação na <a href="https://www.unifesspa.edu.br/">UNIFESSPA</a>, além disso sou Desenvolvedor Front-end Jr e aspirante a UI/UX Designer. Gosto de jogar, apesar de ser péssimo (haha), tocar violão nas horas vagas e ouvir bastante música :)
+<p><samp>Estou cursando o último semestre de Sistemas de Informação na <a href="https://www.unifesspa.edu.br/">Unifesspa</a>.</samp></p>
+<p><samp>Sou Desenvolvedor Front-end Jr 👨‍💻, e aspirante a UI/UX Designer 😆</samp></p>
 
-### Minhas skills:
+<h3><samp>Minhas habilidades:</samp></h3>
+
 
 #### O que eu sei:
 
@@ -25,6 +27,8 @@ Estou cursando o último semestre de Sistemas de Informação na <a href="https:
 - Flutter
 
 ### Onde você pode me encontrar:
+
+<hr />
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavocrvl42@gmail.com)](mailto:gustavocrvl42@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavocrvls/)](https://www.linkedin.com/in/gustavocrvls/)
