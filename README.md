@@ -25,5 +25,12 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavocrvls/" />
 </div>
 
-![Snake animation](https://github.com/gustavocrvls/gustavocrvls/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/gustavocrvls/gustavocrvls/blob/output/github-contribution-grid-snake.svg">
+</div>
 
+<p align="center">
+  <samp>
+    "Quer saber mesmo o motivo de eu estar vivo até hoje? Sempre estou perto da porta!" (Doctor Who)
+  </samp>
+</p>
