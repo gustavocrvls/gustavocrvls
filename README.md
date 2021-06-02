@@ -30,4 +30,6 @@ Estou cursando o último semestre de Sistemas de Informação na <a href="https:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavocrvls/)](https://www.linkedin.com/in/gustavocrvls/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavocrvls/)](https://www.instagram.com/gustavocrvls/)
 
-Isso é tudo por enquanto 😆️, obrigado pela visita!
+
+![Snake animation](https://github.com/gustavocrvls/gustavocrvls/blob/output/github-contribution-grid-snake.svg)
+
