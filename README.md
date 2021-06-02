@@ -5,6 +5,7 @@
 
 <h3><samp>Minhas habilidades:</samp></h3>
 
+<img align="left" alt="CodeChef Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codechef.svg" />
 
 #### O que eu sei:
 
