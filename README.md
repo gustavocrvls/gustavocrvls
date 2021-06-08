@@ -20,9 +20,15 @@
 <h3 align="center"><samp>Onde você pode me encontrar:</samp></h3>
 
 <div style="width: 100%; display: flex;" align="center">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavocrvl42@gmail.com" />
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavocrvls/" />
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavocrvls/" />
+  <a href="mailto:gustavocrvl42@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavocrvl42@gmail.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavocrvls/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavocrvls/" />
+  </a>
+  <a href="https://www.instagram.com/gustavocrvls/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavocrvls/" />
+  </a>
 </div>
 
 <div align="center">
