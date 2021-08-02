@@ -2,7 +2,7 @@
 <h2 align="center"><samp>Oi, eu sou o Gustavo!</samp></h2>
 
 <p align="center"><samp>Estou cursando o último semestre de Sistemas de Informação na <a href="https://www.unifesspa.edu.br/">Unifesspa</a>.</samp></p>
-<p align="center"><samp>Sou Desenvolvedor Front-end Jr 👨‍💻, e aspirante a UI/UX Designer 😆</samp></p>
+<p align="center"><samp>Sou Desenvolvedor Fulltack Jr 👨‍💻, e aspirante a Desenvolvedor Mobile 😆</samp></p>
 
 <h3 align="center"><samp>Minhas habilidades:</samp></h3>
 
