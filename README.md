@@ -1,8 +1,8 @@
 
 <h2 align="center"><samp>Oi, eu sou o Gustavo!</samp></h2>
 
-<p align="center"><samp>Estou cursando o último semestre de Sistemas de Informação na <a href="https://www.unifesspa.edu.br/">Unifesspa</a>.</samp></p>
-<p align="center"><samp>Sou Desenvolvedor Fulltack Jr 👨‍💻, e aspirante a Desenvolvedor Mobile 😆</samp></p>
+<p align="center"><samp>Sou formado em Sistemas de Informação na <a href="https://www.unifesspa.edu.br/">Unifesspa</a>.</samp></p>
+<p align="center"><samp>Trabalho como Desenvolvedor Fulltack Jr 👨‍💻, e sou aspirante a Desenvolvedor Mobile 😆</samp></p>
 
 <h3 align="center"><samp>Minhas habilidades:</samp></h3>
 
