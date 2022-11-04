@@ -1,10 +1,8 @@
+<h2 align="center"><samp>Hi, I'm Gustavo!</samp></h2>
 
-<h2 align="center"><samp>Oi, eu sou o Gustavo!</samp></h2>
+<p align="center"><samp>I am a Software Engineer with a degree in Information Systems from the Federal University of the South and Southeast of Pará (UNIFESSPA). I have more than 3 years of experience in web development and have worked with several languages and tools in both Front-end and Back-end.</samp></p>
 
-<p align="center"><samp>Sou formado em Sistemas de Informação na <a href="https://www.unifesspa.edu.br/">Unifesspa</a>.</samp></p>
-<p align="center"><samp>Trabalho como Desenvolvedor Fulltack Jr 👨‍💻, e sou aspirante a Desenvolvedor Mobile 😆</samp></p>
-
-<h3 align="center"><samp>Minhas habilidades:</samp></h3>
+<h3 align="center"><samp>My Skills:</samp></h3>
 
 <div style="width: 100%; display: flex;" align="center">
   <img src="https://img.shields.io/badge/-HTML5-grey?style=flat-square&logo=HTML5&logoColor=white&labelColor=E34F26" />
@@ -17,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Sass-grey?style=flat-square&logo=SASS&logoColor=white&labelColor=CC6699" />
 </div>
 
-<h3 align="center"><samp>Onde você pode me encontrar:</samp></h3>
+<h3 align="center"><samp>Where you can find me:</samp></h3>
 
 <div style="width: 100%; display: flex;" align="center">
   <a href="mailto:gustavocrvl42@gmail.com" target="_blank">
@@ -40,6 +38,6 @@
 
 <p align="center">
   <samp>
-    "Quer saber mesmo o motivo de eu estar vivo até hoje? Sempre estou perto da porta!" (Doctor Who)
+    "There's a difference being lucky and deserving. One's an accident, the other, a reward. Never get the two confused" (All Might)
   </samp>
 </p>
