@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/-HTML5-grey?style=flat-square&logo=HTML5&logoColor=white&labelColor=E34F26" />
   <img src="https://img.shields.io/badge/-CSS3-grey?style=flat-square&logo=CSS3&logoColor=white&labelColor=1572B6" />
   <img src="https://img.shields.io/badge/-React-grey?style=flat-square&logo=React&logoColor=black&labelColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Vue.js-grey?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=1867C0" />
   <img src="https://img.shields.io/badge/-Next.js-grey?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/-Vue.js-grey?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=4FC08D" />
   <img src="https://img.shields.io/badge/-styled--components-grey?style=flat-square&logo=styled-components&logoColor=white&labelColor=DB7093" />
   <img src="https://img.shields.io/badge/-Sass-grey?style=flat-square&logo=SASS&logoColor=white&labelColor=CC6699" />
   <img src="https://img.shields.io/badge/-Material%20UI-grey?style=flat-square&logo=mui&logoColor=white&labelColor=007FFF" />
